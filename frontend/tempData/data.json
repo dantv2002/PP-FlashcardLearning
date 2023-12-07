@@ -1,0 +1,20 @@
+{
+    "flashcard": [
+        {
+            "id": 1,
+            "frontSide": "flashcard 1",
+            "backSide": "back side of flashcard 1",
+            "authorId": 1
+        }
+    ],
+    "message": [
+        {
+            "id": 1,
+            "body": "some message",
+            "from": 1,
+            "to": 2,
+            "sentTime": "2023-10-31T09:00:00.594Z"
+        }
+    ],
+    "user": { "id": 1, "username": "User1", "priority": 1 }
+}
